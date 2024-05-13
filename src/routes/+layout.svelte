@@ -1,4 +1,4 @@
-<title>Svelte suckers</title>
+<title>Svelte soldiers</title>
 
 <nav>
     <a href="/">Home</a>
